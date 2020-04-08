@@ -11,4 +11,3 @@ def display_rainbow(color)
 end
 
 print display_rainbow()
-  
